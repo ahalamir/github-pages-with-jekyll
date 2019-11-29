@@ -1,5 +1,4 @@
-this is my first new post
 ---
-title: "Welcome to my blog"
-date: 2019-01-20
+title: "Welcome to my blog ahalamir"
+date: 2019-11-29
 ---
